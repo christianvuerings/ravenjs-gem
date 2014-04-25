@@ -1,5 +1,5 @@
 # Raven.js Gem
-[![Gem Version](https://badge.fury.io/rb/ravenjs-gem.png)](http://badge.fury.io/rb/ravenjs-gem) [![Dependency Status](https://gemnasium.com/ets-berkeley-edu/ravenjs-gem.png)](https://gemnasium.com/ets-berkeley-edu/ravenjs-gem) [![Code Climate](https://codeclimate.com/github/ets-berkeley-edu/ravenjs-gem.png)](https://codeclimate.com/github/ets-berkeley-edu/ravenjs-gem)
+[![Gem Version](https://badge.fury.io/rb/ravenjs-gem.svg)](http://badge.fury.io/rb/ravenjs-gem) [![Dependency Status](https://gemnasium.com/ets-berkeley-edu/ravenjs-gem.svg)](https://gemnasium.com/ets-berkeley-edu/ravenjs-gem) [![Code Climate](http://img.shields.io/codeclimate/github/ets-berkeley-edu/ravenjs-gem.svg)](https://codeclimate.com/github/ets-berkeley-edu/ravenjs-gem)
 
 [Raven.js][ravenjs] as a Ruby gem.
 
