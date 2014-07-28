@@ -41,7 +41,7 @@ If you would like to update this gem you should take the following steps:
 Then the maintainer of the gem will need to do the following steps:
 
 1. Update the version [lib/ravenjs-gem/version.rb](lib/ravenjs-gem/version.rb)
-1. Run ``gem build ravenjs-gem.gemspec`` to package the gem
+1. Run `gem build ravenjs-gem.gemspec` to package the gem
 1. Once satisfied, push the gem up to RubyGems.org with ``gem push ravenjs-gem-<VERSION>.gem``
 1. Update [the changelog](CHANGELOG.md)
 

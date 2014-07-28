@@ -1,3 +1,3 @@
 module RavenjsGem
-  VERSION = "1.1.14"
+  VERSION = "1.1.16"
 end

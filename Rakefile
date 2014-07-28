@@ -64,15 +64,15 @@ task :download do |t|
   create_dir dir_js, get_version
 
   # Download the right files
-  url_root = 'https://raw.github.com/getsentry/raven-js/' + commit + '/dist/' + get_version + '/'
+  url_root = 'https://raw.github.com/getsentry/raven-js/' + commit + '/dist/'
   url_js = url_root + 'raven.js'
   url_js_min = url_root + 'raven.min.js'
   url_js_map = url_root + 'raven.min.map'
 
   puts "Downloading... \n"
   download_file url_js, dir_js, 'raven.js', get_version
-  download_file url_js_min, dir_js, 'raven.min.js', get_version
-  download_file url_js_map, dir_js, 'raven.min.map', get_version
+  # download_file url_js_min, dir_js, 'raven.min.js', get_version
+  # download_file url_js_map, dir_js, 'raven.min.map', get_version
 
 end
 
