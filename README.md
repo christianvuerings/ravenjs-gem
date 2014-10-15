@@ -25,7 +25,7 @@ In order for the files to load, you'll need to do add them.
 `application.js`:
 
 ```javascript
-//= require ravenjs
+//= require raven
 ```
 
 and you should be good to go.
